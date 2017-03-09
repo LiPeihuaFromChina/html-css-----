@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	height:600px;
+}
+
+div{
+	border:red 2px solid;
+}
+
+.topbar{
+	height:100px;
+}
+
+.centerpiece{
+	height:400px;
+}
+
+.footer{
+	height:100px;
+}

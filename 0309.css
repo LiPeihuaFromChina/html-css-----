@@ -1,7 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
 body{
-	height:550px;
+	height:800px;;
+	padding:0;
+	margin:0;
+	
 }
 
 div{
@@ -27,6 +30,41 @@ img{
 	height:40%;
 }
 
+.centerpiece>span{
+	width:536px;
+	height:38px;
+}
+
+.inputarea{
+	width:400px;
+}
+
+
+
+.baidubutton{
+	color:white;
+	background-color:#38f;
+	text-align:center;
+	font-size:16px;
+	width:60px;
+}
+/* next part*/
 .bottombar{
 	height:30%;
+	font-size:12px;
+}
+
+.bottom-container{
+	margin:70px auto;
+}
+
+.bottombar>.bottom-container>p{
+	text-align:center;
+	margin-top:60p%;
+	color:#999;
+}
+
+.bottombar>.bottom-container>p>a{
+	text-decoration:underline;
+	color:#999;
 }
